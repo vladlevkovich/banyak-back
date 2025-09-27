@@ -12,7 +12,7 @@ This project is a web-based platform designed to connect beginners looking for h
 ## Technologies  
 
 - **Django** – for the backend API.  
-- **SQLIte** – for database storage.  
+- **PostgreSQL** – for database storage.  
 - **Docker** – for containerization.
 - **Alembic** – for database migrations.  
 
