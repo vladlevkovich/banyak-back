@@ -16,11 +16,3 @@ This project is a web-based platform designed to connect beginners looking for h
 - **Docker** – for containerization.
 - **Alembic** – for database migrations.  
 
-## Installation and Setup  
-
-### Clone the repository  
-
-```bash
-git clone https://github.com/vladlevkovich/banyak.git
-cd project-collab-platform
-```
